@@ -39,7 +39,23 @@ right: 20px;
     padding-bottom: 20px;
 
 }
+@media only screen and (max-width: 600px) {
+  .content {
+    width: 100%;
+  }
+  header {
 
+  	text-align: left;
+  }
+  #header{
+ font-weight: bolder;
+ font-size:20px;
+ }
+ #status{
+font-weight: bold;
+font-size: 15px;	
+ }
+}
 button{
 	background-color:#9400FF ;
 	height: 40px;
