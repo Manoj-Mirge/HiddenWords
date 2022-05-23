@@ -1,2 +1,2 @@
 # HiddenWords
-HiddenWords is simple game biult in client-side javascript.
+HiddenWords is simple game built in client-side javascript.
